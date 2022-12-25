@@ -1,5 +1,5 @@
 ---
-title: Introduzione nel mio blog
+title: Introduzione del mio blog
 description: Cosa posterò nel mio blog?
 slug: introduction-in-my-blog
 date: 2022-25-12 00:00:00+0000
@@ -12,7 +12,7 @@ tags:
 
 ### Prefazione
 
-Sì, ho realizzato un blog.! Amo così tanto i sistemi che si celano dietro ai blog, ovvero il  backend, e le communità che nascono in un blog.
+Sì, ho realizzato un blog! Amo così tanto i sistemi che si celano dietro ai blog, ovvero il  backend, e le communità che nascono in un blog.
 
 Quando ho pensato di aprire un blog, ho sognato di poter scrivere la mia vita in pochi paragrafi. Quindi, ho deciso di provare con il framework Hugo, framework scritto in GO, che cambia la tipologia del sito.
 
