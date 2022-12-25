@@ -14,7 +14,7 @@ tags:
 
 Sì, ho realizzato un blog.! Amo così tanto i sistemi che si celano dietro ai blog, ovvero il  backend, e le communità che nascono in un blog.
 
-Quando ho pensato di aprire un blog, ho sognato di poter scrivere la mia vita in pochi paragrafi. Quindi, ho deciso di provare con il framework Hugo, scritto in GO, che cambia la tipologia del sito.
+Quando ho pensato di aprire un blog, ho sognato di poter scrivere la mia vita in pochi paragrafi. Quindi, ho deciso di provare con il framework Hugo, framework scritto in GO, che cambia la tipologia del sito.
 
 ### Contenuti
 
