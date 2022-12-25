@@ -14,7 +14,7 @@ tags:
 
 Yes, I have realized a blog! I so love the systems behind blogging, i.e. the backend, and the communities that are born in a blog.
 
-When I though of open a blog, I dreamt that I could write my life in few paragraphs. So , I decided try with Hugo framework, framework  written in GO, that change the site's type.
+When I though of open a blog, I dreamt that I could write my life in few paragraphs. So , I decided try with Hugo framework,  written in GO, that change the site's type.
 
 ### Contents
 
