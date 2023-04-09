@@ -81,4 +81,4 @@ Libri che ho letto:
    
    Siamo alla fine del viaggio nella mia mente, una mente geniale di un giovane sviluppatore.
    
-   Continuerai il tuo viaggio nella mia mente attraverso il mio blog ...
+   Continuerai il tuo viaggio nella mia mente attraverso il mio blog? 
