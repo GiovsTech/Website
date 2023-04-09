@@ -37,7 +37,7 @@ Early, the name of our "Company" was "Ilooh Technology", but in the summer of 20
 
 Our Company creates open source softwares, sharing the "Open Source's Ideology", owned by Richard Stallman and his [FSF](https://fsf.org).  In Fact, We have created a telegram bot for control our Telegram Group, where our followers understand our ideas, sharing theirs opinions. Another project 's a Video Downloader, coded in Python, for download videos from Youtube, but now It isn't available. In conclusion, We 've also created a Android App for administrate daily tasks , also called "To Do List".
 
-More information of our Portfolio in our[ Website](https://hazentech.net). 
+More information about our Portfolio in our[ Website](https://hazentech.net). 
 
 ---
 
