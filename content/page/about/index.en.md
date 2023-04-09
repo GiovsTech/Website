@@ -53,7 +53,7 @@ Thanks!
 
 ### Hobby: Reading
 
-Yes, I like reading books! In this century, Reading isn’t a popular thing to love, but I don’t follow other people, I hate concept of mass and to follow it. In Fact, I don’t want to be like the others be. The best book I read was ***1984***, written by *George Orwell*. It 's amazing book, that is about the dictatorships in 1900, that It control the people and theirs opinion.
+Yes, I like reading books! In this century, Reading isn’t a popular thing to love, but I don’t follow other people, I hate concept of mass and to follow it. Indeed, I don’t want to be like the others be. The best book I read was ***1984***, written by *George Orwell*. It 's amazing book, that is about the dictatorships in 1900, which control the people and theirs opinion.
 
 “Freedom is the freedom to say that two plus two equals four. Granted that, everything else follows naturally.“
 
