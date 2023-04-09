@@ -1,7 +1,7 @@
 ---
 title: Introduction 
 description: What Will I post in this blog?
-slug: introduction-in-my-blog
+slug: introduction-on-my-blog
 date: 2022-25-12 00:00:00+0000
 categories:
     - Introduction
