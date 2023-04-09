@@ -79,4 +79,4 @@ Books That I Read:
 
 We are at the end of the travel in my mind, a genius mind of a young developer. 
 
-Will you continue your travel in my mind through my blog
+Will you continue your travel in my mind through my blog? 
