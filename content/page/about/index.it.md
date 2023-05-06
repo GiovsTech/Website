@@ -39,7 +39,7 @@ All'inizio, il nome della nostra "Azienda" era "Ilooh Technology", ma nell'estat
 
 La nostra azienda crea software open source, condividendo l'"ideologia dell'open source", di proprietà di Richard Stallman e della sua [FSF](https://fsf.org). Infatti, abbiamo creato un bot telegram per controllare il nostro gruppo Telegram, dove i nostri follower capiscono le nostre idee, condividendo le loro opinioni. Un altro progetto è un Video Downloader, codificato in Python, per scaricare video da Youtube, ma ora non è disponibile. In conclusione, abbiamo anche creato un'app Android per amministrare le attività quotidiane, chiamata anche "To Do List".
 
-Maggiori informazioni sul nostro portafoglio nel nostro [sito web](https://hazentech.net).
+Maggiori informazioni sul nostro Portfolio nel nostro [sito web](https://hazentech.net).
 
 ---
 
@@ -81,4 +81,4 @@ Libri che ho letto:
    
    Siamo alla fine del viaggio nella mia mente, una mente geniale di un giovane sviluppatore.
    
-   Continuerai il tuo viaggio nella mia mente attraverso il mio blog ...
+   Continuerai il tuo viaggio nella mia mente attraverso il mio blog? 
