@@ -12,7 +12,7 @@ tags:
 
 ### Foreword
 
-Yes, I have realized a blog! I so love the systems behind blogging, i.e. the backend, and the communities that are born in a blog.
+Yes, I have realized a blog! I love the systems behind blogging, like the backend and the communities which are born in a blog.
 
 When I though of open a blog, I dreamt that I could write my life in few paragraphs. So , I decided try with Hugo framework, that is wrote in GO, that permit to write posts in markdown format. 
 
