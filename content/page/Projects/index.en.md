@@ -67,7 +67,7 @@ comments: false
     <div class="p-6 flex flex-col justify-start">
       <h5 class="text-gray-900 text-xl font-medium mb-2">PHP Login System</h5>
       <p class="text-gray-700 text-base mb-4">
-      PHP Login System is a framework that allows you to implement the Account Manager functionality in a Site.
+      PHP Login System is a framework that allows you to implement the Account Manager functionality in a Website.
       </p>
       <p class="text-gray-600 text-xs">Developed by Me</p>
     </div>
