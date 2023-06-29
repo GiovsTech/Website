@@ -18,6 +18,4 @@ When I though of open a blog, I dreamt that I could write my life in few paragra
 
 ### Contents
 
-I decided to insert in this blog my experiments with the world of technology or I could talk about the books that I read. Moreover, I could talk about personal life, with the partneship of my friends.
-
-So, load expectations... 
+I decided to insert in this blog my experiments with the world of technology or I could talk about the books that I read. Moreover, I could talk about personal life in a world in which everyone is like others, without differences
