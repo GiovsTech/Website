@@ -52,7 +52,7 @@ comments: false
     <div class="p-6 flex flex-col justify-start">
       <h5 class="text-gray-900 text-xl font-medium mb-2">IP Tracker.py</h5>
       <p class="text-gray-700 text-base mb-4">
-        IP Tracker.py is a python software which provides you with information about the private and public IP, the Internet Provider, the MAC of the device with the IP of it.
+        IP Tracker.py is a python software which provides you information about the private and public IP, the Internet Provider, the MAC of the device with the IP of it.
       </p>
       <p class="text-gray-600 text-xs">Developed by me</p>
     </div>
