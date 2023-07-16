@@ -43,7 +43,7 @@ On the 23rd August 2023, "Hazen Project" was closed, because the team doesn't do
 
 ### Online Friends that I met
 
-I have always been withdrawn boy, so , I haven't did many friends in the real world. In fact, a fracture to my way of being has been meeting online friends that I can trust. Firstly, I have met SincererFlame71 or "Pierluigi", one of my friends, who changed my life. He introduced me other people , like "FasmanTaylor", a girl, my girlfriend :). Secondly, I met  FranzaGeek, young developer, that together with him and SincererFlame71, we founded our company.
+I have always been withdrawn boy, so  I haven't did many friends in the real world. In fact, a fracture to my way of being has been meeting online friends that I can trust. Firstly, I have met SincererFlame71 or "Pierluigi", one of my friends, who changed my life. He introduced me other people , like "FasmanTaylor", a girl, my girlfriend :). Secondly, I met  FranzaGeek, young developer, that together with him and SincererFlame71, we founded our company.
 
 My Story is so strange, but I'm proud of it :). I want to give thanks to my friends: **<u>SincererFlame71, FasmanTaylor, FranzaGeek and ScaraBoobs</u>**.
 
