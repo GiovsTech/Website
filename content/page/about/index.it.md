@@ -45,7 +45,7 @@ Nella giornata del 23/06/2023, "The Hazen Tech Project" è stato ufficialmente c
 
 ### Amici online che ho incontrato
 
-Sono sempre stato un ragazzo introverso, quindi non ho avuto molti amici nel mondo reale. Una frattura nel mio modo di essere è stata incontrare amici di cui mi sono fidato. Innanzitutto, ho incontrato SincererFlame71, uno dei miei amici, che mi ha cambiato la vita. Mi ha presentato altre persone, come "FasmanTaylor", una ragazza, la mia ragazza :). In secondo luogo, ho incontrato FranzaGeek, giovane sviluppatore, che insieme a SincererFlame71 e al sottoscritto, abbiamo fondato la nostra azienda.
+Sono sempre stato un ragazzo introverso, quindi non ho avuto molti amici nel mondo reale. Una frattura nel mio modo di essere è stata l'incontro con persone di cui mi sono fidato. Innanzitutto, ho incontrato SincererFlame71, uno dei miei amici, che mi ha cambiato la vita. Mi ha presentato altre persone, come "FasmanTaylor", una ragazza, la mia ragazza :). In secondo luogo, ho incontrato FranzaGeek, giovane sviluppatore, che insieme a SincererFlame71 e al sottoscritto, abbiamo fondato la nostra azienda.
 
 La mia storia è così strana, ma ne sono orgoglioso :). Voglio ringraziare i miei amici: **<u>SincererFlame71, FasmanTaylor, FranzaGeek e ScaraBoobs</u>**.
 
