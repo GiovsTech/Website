@@ -40,6 +40,7 @@ All'inizio, il nome della nostra "Azienda" era "Ilooh Technology", ma nell'estat
 La nostra azienda crea software open source, condividendo "l'ideologia dell'open source", eretta da Richard Stallman.
 
 Nella giornata del 23/06/2023, "The Hazen Tech Project" è stato ufficialmente chiuso. Una decisione drastica, condivisa da tutti i membri del progetto, dato che il team era inattivo, non portando avanti questo progetto. Visitare il sito ["inactive.hazentech.net"](https://inactive.hazentech.net) per saperne di piú.
+
 ---
 
 ### Amici online che ho incontrato
