@@ -17,13 +17,13 @@ comments: false
 
 ### Foreword
 
-GiovsTech's a young developer of 14 years old, who loves the world of Technology and Computer Science, but <u>Science</u> too. In Fact, he has learned the most powerful programming languages ,for example, Python, HTML, CSS, PHP.  
+GiovsTech's a young developer of 14 years old, who loves the world of Technology and Computer Science, but <u>Science</u> too. In fact, he has learned the most powerful programming languages ,for example, Python, HTML, CSS, PHP.  
 
 Beyond the world of Technology, he loves reading books about Philosophy, Science, History, or installing Operative System. 
 
 The last time, he set up his computer and he installed Arch Linux in dual boot with Windows. 
 
- He has founded a project, called "Hazen Tech", too. It's a company with three employees (GiovsTechs, [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
+He has founded a project, called "Hazen Tech", too. It's a company with three employees (GiovsTechs, [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
 
 ---
 
@@ -31,7 +31,7 @@ The last time, he set up his computer and he installed Arch Linux in dual boot w
 
 To understand the story behind "The Hazen Tech Project", I must tell my ideas that       have created the ideology of the project.  
 
-In Fact, it was created in Summer 2021 ( June 2021), when I learned how create websites in HTML and CSS. After that, I met my friends in Telegram Communities, in particulary, Stockdroid's Group, where I met SincererFlame71 and, after , FranzaGeek. 
+In fact, it was created in Summer 2021 ( June 2021), when I learned how create websites in HTML and CSS. After that, I met my friends in Telegram Communities, in particular, Stockdroid's Group, where I met SincererFlame71 and, after , FranzaGeek. 
 
 When it was founded, the name of our "Company" was "Ilooh Technology", but, in the summer of 2022, We've changed the name in "Hazen 3e Technologies".
 
