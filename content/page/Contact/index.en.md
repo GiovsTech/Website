@@ -9,7 +9,7 @@ menu:
 comments: false
 ---
 
-Have you to contact me? No problem, you can understand where you contact me in ***this page***.
+Do you have to contact me? No problem, you can understand where you contact me in ***this page***.
 
 <a href="https://gthz.it/em"><img src="mail.png" width="48px" height="48px"></a>
 
