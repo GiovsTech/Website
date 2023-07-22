@@ -1,7 +1,7 @@
 ---
 
 title: Introduction 
-description: This tag 's for my first post. So, I Wrote about me, and my future projects.
+description: Introduction to my blog
 comments: false
 
 # Badge style
