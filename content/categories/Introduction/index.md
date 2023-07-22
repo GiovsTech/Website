@@ -1,6 +1,6 @@
 ---
 title: Introduction 
-description: This category 's for my first post. So, I Wrote about me, and my future projects.
+description: The beginning of my career as a writer.
 comments: false
 # Badge style
 style:
