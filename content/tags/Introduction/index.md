@@ -1,10 +1,8 @@
 ---
 
 title: Introduction 
-description: Introduction to my blog
+description: Introduction of my blog
 comments: false
-
-# Badge style
 
 style:
     background: "#2a9d8f"

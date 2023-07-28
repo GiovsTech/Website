@@ -1,12 +1,9 @@
 ---
 title: About Me
-description: Who am I and my Story
-date: '2023-01-2'
+description: Who am I and my story
 aliases:
   - about-me
-  - about-hazentech
 license: CC BY-NC-ND
-lastmod: '2023-07-17'
 menu:
     main: 
         weight: -90
@@ -17,47 +14,37 @@ comments: false
 
 ### Foreword
 
-GiovsTech's a young developer of 14 years old, who loves the world of Technology and Computer Science, but <u>Science</u> too. In fact, he has learned the most powerful programming languages ,for example, Python, HTML, CSS, PHP.  
+GiovsTech's a young developer of 15 years old, who loves the world of technology and computer science, but <u>Science</u> too. Indeed, he has learned the most powerful programming languages, for example, Python, HTML, CSS and PHP.  
 
-Beyond the world of Technology, he loves reading books about Philosophy, Science, History, or installing Operative System. 
+Beyond the world of technology, he loves reading books about philosophy, science, history, and installing operative systems. 
 
-The last time, he set up his computer and he installed Arch Linux in dual boot with Windows. 
+The last time he set up his computer, he installed Arch Linux in dual boot with Windows. 
 
-He has founded a project, called "Hazen Tech", too. It's a company with three employees (GiovsTechs, [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
-
----
-
-### The Story of Hazen Tech Project
-
-To understand the story behind "The Hazen Tech Project", I must tell my ideas that       have created the ideology of the project.  
-
-In fact, it was created in Summer 2021 ( June 2021), when I learned how create websites in HTML and CSS. After that, I met my friends in Telegram Communities, in particular, Stockdroid's Group, where I met SincererFlame71 and, after , FranzaGeek. 
-
-When it was founded, the name of our "Company" was "Ilooh Technology", but, in the summer of 2022, We've changed the name in "Hazen 3e Technologies".
-
-Our Company creates open source software, sharing the "Open Source Ideology", owned by Richard Stallman.
-
-On the 23rd June 2023, " The Hazen Project" was closed, because the team doesn't do anything to support this project. You can visit [Hazen's inactive website](https://inactive.hazentech.net) to understand how the things are changed.
+He founded a project, called "Hazen Tech", too. It was a "company" with three employees [GiovsTechs](https://gthz.it/lkg), [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
 
 ---
 
-### Online Friends that I met
+### Story of Hazen Tech Project
 
-I have always been withdrawn boy, so  I haven't made many friends in the real world. In fact, a fracture to my way of being has been meeting online friends that I can trust. Firstly, I have met SincererFlame71, one of my friends, who changed my life. He introduced me other people , like "FasmanTaylor", a girl, my girlfriend :). Secondly, I met  FranzaGeek, young developer, that together with me and SincererFlame71, we founded our company.
+To understand the story behind "The Hazen Tech Project", I must tell ideas which made the ideology of the project.  
 
-My Story is so strange, but I appreciate it :). I want to give thanks to my friends: **<u>SincererFlame71, FasmanTaylor, FranzaGeek and ScaraBoobs</u>**.
+It was created in June 2021, when I learned how to make websites in HTML and CSS. After that, I met SincerFlame71 and FranzaGeek, my friends, in telegram Communities.
 
-Thanks!
+When it was founded, the name of our "company" was "Ilooh Technology" but, in the summer of 2022, we've changed the name in "Hazen 3e Technologies".
+
+Our company made open source software, sharing "Open Source Ideology", owned by Richard Stallman.
+
+On the 23rd June 2023, "The Hazen Project" was closed, because the team doesn't do anything to support it. You can visit [Hazen's inactive website](https://inactive.hazentech.net) to understand how things are changed.
 
 ---
 
 ### Hobby: Reading
 
-Yes, I like reading books! In this century, reading isn’t a "popular" thing to love, but I don’t follow other people, I hate concept of mass and to follow it. Indeed, I don’t want to be like the others be. The best book I read until this moment was ***1984***, written by *George Orwell*. It's amazing book, that is about the dictatorships in 1900, which controlled the people and theirs opinion.
+Yes, I like reading books! In this century, reading isn’t a "popular" thing to love, but I don’t care. Anyway, the best book I read until this moment was ***1984***, written by *George Orwell*. It's amazing book that is about the dictatorships in 1900, which controlled people and theirs opinion.
 
 “Freedom is the freedom to say that two plus two equals four. Granted that, everything else follows naturally.“
 
-Books That I read:
+Books that I read:
 
 1. Animal Farm, by Orwell
 
