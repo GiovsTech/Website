@@ -1,12 +1,12 @@
 ---
 title: Projects
 description: I coded some projects. Do you want to see them?
-date: '2023-01-2'
+
 aliases:
   - my-projects
   - projects
 license: CC BY-NC-ND
-lastmod: '2023-01-2'
+
 menu:
     main: 
         weight: -90
