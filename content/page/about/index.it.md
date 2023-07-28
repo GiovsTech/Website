@@ -3,7 +3,6 @@ title: Informazioni
 description: Chi sono e la mia storia.
 aliases:
   - about-me
-  - about-hazentech
 license: CC BY-NC-ND
 menu:
     main: 
