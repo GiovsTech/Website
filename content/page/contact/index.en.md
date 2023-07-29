@@ -13,7 +13,7 @@ Do you have to contact me? No problem, you can understand where you contact me i
 
 <a href="https://gthz.it/em"><img src="mail.png" width="48px" height="48px"></a>
 
-<p> <a href="mailto:me@gianstech.it">me@gianstech.it</a> (Personal Email) - <a href="mailto:info@gianstech.it">info@gianstech.it</a> (Business Email)</p>
+<p> <a href="mailto:me@gianstech.it">me@gianstech.it</a> (Personal Email) <br> <a href="mailto:info@gianstech.it">info@gianstech.it</a> (Business Email)</p>
 
 <a href="https://gthz.it/ds"><img src="ds.png" width="48px" height="48px"></a>
 
@@ -81,7 +81,7 @@ Contact Form
         ease-in-out
         m-0
         focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" id="Lastname" name="lastname"
-        placeholder="Your LastName">
+        placeholder="Your Lastname">
     </div>
     <div class="form-group mb-6">
       <input type="email" class="form-control block
