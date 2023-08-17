@@ -11,6 +11,11 @@ comments: false
 
 Hai necessità di contattarmi? Non Preoccuparti, puoi capire dove contattarmi in questa pagina.
 
+
+<a href="https://gthz.it/lkg"><img src="lk.png" width="48px" heigth="48px"></a>
+
+<p>Link Page</p>
+
 <a href="https://gthz.it/em"><img src="mail.png" width="48px" height="48px"></a>
 
 <p> <a href="mailto:me@gianstech.it">me@gianstech.it</a> (Personal Email) <br> <a href="mailto:info@gianstech.it">info@gianstech.it</a> (Business Email)</p>
