@@ -13,7 +13,7 @@ Do you have to contact me? No problem, you can understand my contact information
 
 <a href="https://gthz.it/lkg"><img src="lk.png" width="48px" heigth="48px"></a>
 
-<p> My Link page </p>
+<p> Link page </p>
 
 <a href="https://gthz.it/em"><img src="mail.png" width="48px" height="48px"></a>
 
