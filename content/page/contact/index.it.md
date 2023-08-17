@@ -12,7 +12,7 @@ comments: false
 Hai necessità di contattarmi? Non preoccuparti, puoi capire dove contattarmi in ***questa pagina***.
 
 
-<a href="https://gthz.it/lkg"><img src="https://img.icons8.com/color/48/linktree.png" width="48px" heigth="48px"></a>
+<a href="https://gthz.it/lkg"><img src="https://img.icons8.com/color/96/linktree.png" width="48px" heigth="48px"></a>
 
 <p>Link Page</p>
 
