@@ -12,7 +12,6 @@ comments: false
 Do you have to contact me? No problem, you can understand my contact informations in ***this page***.
 
 <a href="https://gthz.it/lkg"><img src="https://img.icons8.com/color/96/linktree.png" width="48px" heigth="48px"></a>
-
 <p> Link page </p>
 
 <a href="https://gthz.it/em"><img src="mail.png" width="48px" height="48px"></a>
