@@ -5,6 +5,7 @@ menu:
         weight: -50
         params:
             icon: contact
+math: false
 
 comments: false
 ---
