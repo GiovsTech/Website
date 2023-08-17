@@ -11,7 +11,7 @@ comments: false
 
 Do you have to contact me? No problem, you can understand my contact informations in ***this page***.
 
-<a href="https://gthz.it/lkg"><img src="lk.png" width="48px" heigth="48px"></a>
+<a href="https://gthz.it/lkg"><img src="https://img.icons8.com/color/96/linktree.png" width="48px" heigth="48px"></a>
 
 <p> Link page </p>
 
