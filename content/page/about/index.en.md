@@ -20,7 +20,7 @@ Beyond the world of technology, he loves reading books about philosophy, science
 
 The last time he set up his computer, he installed Arch Linux in dual boot with Windows. 
 
-He founded a project, called "Hazen Tech", too. It was a "company" with three employees [GiovsTechs](https://gthz.it/lkg), [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
+He founded a project, called "Hazen Tech", too. It was a "company" with three employees [GiovsTechs](https://gthz.it/lkg), [SincererFlame71](https://sincererflame71.it), [FranzaGeek](https://www.youtube.com/@FranzaGeek).
 
 ---
 
@@ -34,7 +34,7 @@ When it was founded, the name of our "company" was "Ilooh Technology" but, in th
 
 Our company made open source software, sharing "Open Source Ideology", owned by Richard Stallman.
 
-On the 23rd June 2023, "The Hazen Project" was closed, because the team doesn't do anything to support it. You can visit [Hazen's inactive website](https://inactive.hazentech.net) to understand how things are changed.
+On the 23rd June 2023, "The Hazen Project" was closed, because the team doesn't do anything to support it. You can visit [Hazen's inactive website](https://inactive.hazentech.it) to understand how things are changed.
 
 ---
 
