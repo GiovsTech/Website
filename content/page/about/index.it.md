@@ -22,7 +22,7 @@ Al di là del mondo della tecnologia, ama leggere libri di filosofia, scienza, s
 
 L'ultima volta, ha configurato il suo computer e ha installato Arch Linux in dual boot con il sistema Windows.
 
-Ha anche fondato un progetto, chiamato “Hazen Tech”. Era "un'azienda" con tre dipendenti [GiovsTechs](https://gthz.it/lkg), [SincererFlame71](https://sincererflame71.net), [FranzaGeek](https://www.youtube.com/@FranzaGeek)
+Ha anche fondato un progetto, chiamato “Hazen Tech”. Era "un'azienda" con tre dipendenti [GiovsTechs](https://gthz.it/lkg), [SincererFlame71](https://sincererflame71.it), [FranzaGeek](https://www.youtube.com/@FranzaGeek)
 
 ---
 
@@ -36,7 +36,7 @@ All'inizio, il nome della nostra "azienda" era "Ilooh Technology" ma, nell'estat
 
 La nostra azienda creava software open source, condividendo "l'ideologia dell'open source", eretta da Richard Stallman.
 
-Nella giornata del 23/06/2023, "The Hazen Tech Project" è stato ufficialmente chiuso. Una decisione drastica, condivisa da tutti i membri del progetto, dato che il team era inattivo, non portando avanti questo progetto. Visitare il sito ["inactive.hazentech.net"](https://inactive.hazentech.net) per saperne di piú.
+Nella giornata del 23/06/2023, "The Hazen Tech Project" è stato ufficialmente chiuso. Una decisione drastica, condivisa da tutti i membri del progetto, dato che il team era inattivo, non portando avanti questo progetto. Visitare il sito ["inactive.hazentech.it"](https://inactive.hazentech.it) per saperne di piú.
 
 
 ---
