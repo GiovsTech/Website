@@ -63,7 +63,7 @@ Libri che ho letto:
 
 7. Brave New World, by Aldous Huxley 
 
-8. Down and Out in Paris and London
+8. Down and Out in Paris and London, George Orwell 
 
 9. Il Ventre di Napoli, Matilde Serao 
    
