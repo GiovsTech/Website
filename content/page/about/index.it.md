@@ -66,6 +66,8 @@ Libri che ho letto:
 8. Down and Out in Paris and London, George Orwell 
 
 9. Il Ventre di Napoli, Matilde Serao 
+
+10. La variante di Lunebürg, Paolo Maurensig
    
   e altri...
    
