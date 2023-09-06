@@ -62,6 +62,10 @@ Libri che ho letto:
 6. Il Detenuto Zero, by Yiannis Karvelis
 
 7. Brave New World, by Aldous Huxley 
+
+8. Down and Out in Paris and London
+
+9. Il Ventre di Napoli, Matilde Serao 
    
   e altri...
    
