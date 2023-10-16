@@ -27,4 +27,5 @@ It has two way to be run:
 • Automatic Mode
 • Download and burn preconfigured ISO images
 [Download it](https://github.com/GiovsTech/USBCreationTool/releases/latest).
+
 ***Developed by Me***
