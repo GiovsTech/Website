@@ -22,5 +22,9 @@ LinuxEFIMounter is a simple and standalone Bash program that makes it easy to mo
 ### USBCreation Tool
 
 USBCreationTool is a Bash program that helps you to make a bootable USB in a short time. 
-
-***In development***
+It has two way to be run:
+• Manual Mode
+• Automatic Mode
+• Download and burn preconfigured ISO images
+[Download it](https://github.com/GiovsTech/USBCreationTool/releases/latest).
+***Developed by Me***
