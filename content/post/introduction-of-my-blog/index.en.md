@@ -8,7 +8,7 @@ tags:
     - Introduction
     - Technology
 ---
-
+date: 2024-1-27UTC16:21:54+01:00
 ### Foreword
 
 I have realized a blog, as you notice. The reason behind this blog is based on my experimentation of blog systems. I've always loved telling my life and my thoughts in different posts. I don't promise to be very active in the realization of posts, due to different activities I have to do, but I will try to keep these passions alive.
