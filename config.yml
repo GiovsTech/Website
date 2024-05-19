@@ -1,4 +1,4 @@
-baseurl: https://gianstech.it
+baseurl: https://giovstechs.it
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -38,8 +38,8 @@ params:
         customText: Coded with ❤️ by GiovsTech
 
     dateFormat:
-        published: 2022-12-25UTC21:21:54+01:00
-        lastUpdated: 2024-1-27UTC16:21:54+01:00
+        published:  Jan 25, 2022 
+        lastUpdated: May 20, 2024 14:18 UTC
     sidebar:
         emoji: 
         subtitle: Young developer of 15 years old. 
