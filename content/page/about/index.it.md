@@ -1,6 +1,7 @@
 ---
 title: Informazioni 
 description: Chi sono e la mia storia.
+lastUpdated: May 20, 2024 14:18 UTC
 aliases:
   - about-me
 license: CC BY-NC-ND
