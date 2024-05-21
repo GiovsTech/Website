@@ -61,7 +61,7 @@ params:
         provider: disqusjs
 
         disqusjs:
-            shortname: giovstechs-it
+            shortname: gianstech-it
             apiUrl: https://disqus.com/api/
             apiKey: yzIww4Zk1nG2dJPl4rwDpj0OTsFBFRSvHBHJOoOLKEmeutqOAzmxv5J0OMgyPXPl
             admin: disqus_b5XRMslktE
