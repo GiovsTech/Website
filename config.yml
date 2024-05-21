@@ -58,7 +58,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqusjs
+        provider: disqus
 
         disqusjs:
             shortname: gianstech-it
