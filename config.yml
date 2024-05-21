@@ -63,7 +63,7 @@ params:
         disqusjs:
             shortname: giovstechs-it
             apiUrl: https://disqus.com/api/
-            apiKey: IkatjDPdgzstKeNtE6tPGxBbHGuxG53kFuZ5rJof9ruajOuDm3eY34N7e4MfVDXO
+            apiKey: yzIww4Zk1nG2dJPl4rwDpj0OTsFBFRSvHBHJOoOLKEmeutqOAzmxv5J0OMgyPXPl
             admin: disqus_b5XRMslktE
             adminLabel: Admin
 
